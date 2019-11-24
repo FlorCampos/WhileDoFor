@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continue01", "Continue01\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.-SumaNumerosImpares", "13.-SumaNumerosImpares\13.-SumaNumerosImpares.csproj", "{8ACED1F1-E387-44CE-9415-753F73EEE65D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.-SumaFracciones", "20.-SumaFracciones\20.-SumaFracciones.csproj", "{C5AEA2AC-1BF0-4B08-A076-7A676881A67B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8ACED1F1-E387-44CE-9415-753F73EEE65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ACED1F1-E387-44CE-9415-753F73EEE65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ACED1F1-E387-44CE-9415-753F73EEE65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AEA2AC-1BF0-4B08-A076-7A676881A67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AEA2AC-1BF0-4B08-A076-7A676881A67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AEA2AC-1BF0-4B08-A076-7A676881A67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AEA2AC-1BF0-4B08-A076-7A676881A67B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
